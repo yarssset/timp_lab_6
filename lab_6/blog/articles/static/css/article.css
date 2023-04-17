@@ -1,0 +1,59 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #ffffff;
+}
+.archive {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.article {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    height: 500px;
+    display: block;
+    width: 518px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.article-created-date {
+    text-align: right;
+}
+.post-title a {
+    color: #ffffff;
+}
+.article-author {
+    width: 50%;
+    float: left;
+}
+table {
+    border-collapse: collapse;
+}
+p, h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+h1 {
+    font-family: "Times New Roman", "Times", serif;
+}
+h4 {
+    font-size: 16px;
+}
+ul, ol {
+    margin: 0;
+}
+table tr td {
+    padding: 5px;
+}
+table {
+    width: 100%;
+}
+
+img {
+    height: 310px;
+    width: auto;
+}
